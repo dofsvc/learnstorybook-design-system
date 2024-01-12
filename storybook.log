@@ -1,0 +1,8 @@
+npm ERR! code ENOSPC
+npm ERR! syscall write
+npm ERR! errno -28
+npm ERR! nospc ENOSPC: no space left on device, write
+npm ERR! nospc There appears to be insufficient space on your system to finish.
+npm ERR! nospc Clear up some disk space and try again.
+
+npm ERR! A complete log of this run can be found in: /data/data/com.termux/files/home/.npm/_logs/2024-01-12T10_36_25_845Z-debug-0.log
